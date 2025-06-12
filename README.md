@@ -33,7 +33,7 @@ This project is a fully responsive, clean, and professional portfolio website th
 
 ## 📸 Preview
 
-![Portfolio Preview](./Screenshot 2025-06-12 135842.png)
+![Portfolio Preview](./Screenshot1.png)
 
 ---
 
